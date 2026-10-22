@@ -7,3 +7,6 @@ title: Symposium Knowledge-driven AI in the era of genAI
 description: --
 
 url: https://mdboer.github.io/symposiumKAI
+
+github:
+  is_project_page: false
