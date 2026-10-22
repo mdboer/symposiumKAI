@@ -5,7 +5,7 @@
       rgba(15, 35, 55, 0.55),
       rgba(15, 35, 55, 0.55)
     ),
-    url("{{ '/assets/images/banner.jpg' | relative_url }}");
+    url("{{ '/assets/images/banner.png' | relative_url }}");
 
   background-position: center;
   background-size: cover;
