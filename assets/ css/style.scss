@@ -1,63 +1,12 @@
-@import "{{ site.theme }}";
 
 .page-header {
-  background-color: #071A52;
   background-image:
     linear-gradient(
-      rgba(7, 26: 0 2px 5px rgba(0, 0, 0, 0.65);      rgba(7, 26, 82, 0.62),
-}
-
-.main-content {
-  color: #123EB7;
-}
-
-.main-content h1,
-.main-content h2,
-.main-content h3,
-.main-content h4 {
-  color: #0A2A7A;
-}
-
-.main-content a {
-  color: #185ADB;
-}
-
-.main-content a:hover {
-  color: #071A52;
-}
-
-.btn {
-  color: #FFFFFF;
-  background-color: rgba(18, 62, 183, 0.8);
-  border-color: rgba(255, 255, 255, 0.55);
-}
-
-.btn:hover {
-  color: #FFFFFF;
-  background-color: #0A2A7A;
-  border-color: #FFFFFF;
-}
-
-.main-content hr {
-  border-color: #AFC6FF;
-}
-
-.main-content code {
-  color: #0A2A7A;
-  background-color: #EEF3FF;
-}
-
-      rgba(18, 62, 183, 0.62)
+      rgba(15, 35, 55, 0.55),
+      rgba(15, 35, 55, 0.55)
     ),
-    url("../images/banner.png");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-}
+    url("{{ '/assets/images/banner.jpg' | relative_url }}");
 
-.project-name,
-.project-tagline {
-  color: #FFFFFF;
+  background-position: center;
+  background-size: cover;
 }
