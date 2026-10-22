@@ -4,6 +4,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Symposium Knowledge-driven AI in the era of genAI
-description: 
+description: --
 
-url: https://symposiumkai.github.io/
+url: https://mdboer.github.io/symposiumKAI
