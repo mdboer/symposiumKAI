@@ -63,14 +63,6 @@ Please email Maaike de Boer or Stephan Raaijmakers.
 </g>
 </svg>
 
-
-
-
-
-
-
-
-
 <img width="150" height="100" alt="Seal_Leiden_University" src="https://github.com/user-attachments/assets/1e22d0c3-1ab1-4429-af06-b4b6f317bec4" />
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
