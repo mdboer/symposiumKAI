@@ -1,6 +1,8 @@
 # **Symposium Knowledge-driven AI in the era of genAI**
 
-We are pleased to announce a symposium preceding the PhD defense of Roos Bakker! The symposium will be held on November 3rd, 10:00 - 13:00. The location is room 0.09 in the Huizinga Building ([Johan Huizingagebouw, Doelensteeg 16, 2311 VL Leiden](https://www.openstreetmap.org/relation/3634484)), in the centre of Leiden. Everyone is welcome and registration is not required. Lunch is NOT provided.
+We are pleased to announce a symposium preceding the PhD defense of Roos Bakker! The symposium will be held on November 3rd, 10:00 - 13:00. The location is room 0.09 in the Huizinga Building ([Johan Huizingagebouw, Doelensteeg 16, 2311 VL Leiden](https://www.openstreetmap.org/relation/3634484)), in the centre of Leiden. 
+
+Everyone is welcome and registration is not required. Lunch is NOT provided.
 
 
 
